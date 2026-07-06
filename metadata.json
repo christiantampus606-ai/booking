@@ -1,6 +1,0 @@
-{
-  "name": "Free Booking System",
-  "description": "A fully functional, customizable booking system with host dashboard and client-facing booking pages, posting leads directly to Google Sheets.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
